@@ -20,10 +20,8 @@ class Ohms_law_cal:
 		return I * R
 		
 	def amps(self, V, R):
-		return V/R
+		return V / R
 		
 	def ohm(self, V, I):
-		return V/I
-				
-x = Ohms_law_cal(9, 0.2, 0, "ohm")
-print(x.caller())
+		return V / I
+
