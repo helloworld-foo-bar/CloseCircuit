@@ -24,3 +24,5 @@ return V / R
 
 def ohm(self, V, I):
 return V / I
+
+Ohms_law_cal(1.5, 50, , "ohm")
