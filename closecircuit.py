@@ -24,6 +24,3 @@ class Ohms_law_cal:
 
         def ohm(self, V, I):
             return V / I
-
-calu = Ohms_law_cal()
-print(calu((1.5, 50, , "ohm")))
